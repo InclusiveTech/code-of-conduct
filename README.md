@@ -39,7 +39,6 @@ These are our guiding principles. It's hard to anticipate all potential issues. 
 If you don’t feel comfortable or notice something happening to someone else that you want to raise, either approach one of the organisers in person or contact us via the following methods below:
 
 - Email: reach.ukinclusivetechcommunity@twitter.com
-- Twitter: @InclusiveTechCo
 
 ## Inspiration
 
