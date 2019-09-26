@@ -1,6 +1,6 @@
 # Uk Inclusive Tech - Code of Conduct
 
-![alt text](https://github.com/InclusiveTech/code-of-conduct/raw/master/logo.png "Inclusive Tech Community Logo")
+<img src="https://raw.githubusercontent.com/InclusiveTech/code-of-conduct/master/logo.png" alt="Uk Inclusive Tech Community Logo" width="200"/>
 
 ## Welcome
 
@@ -10,7 +10,7 @@ We like to organise, host and collaborate on events here at Twitter UK and if yo
 
 ## Principles
 
-###Inclusivity 👩‍👩‍👧‍👧🧛‍👨‍👨‍👦🏃‍♀️👨‍👩‍👧‍👧🧘‍♀️🐙👩‍⚕️
+### Inclusivity 👩‍👩‍👧‍👧🧛‍👨‍👨‍👦🏃‍♀️👨‍👩‍👧‍👧🧘‍♀️🐙👩‍⚕️
 
 We respect and welcome everyone who hosts, speaks, attends and contributes to our events. We are all here to learn, share and enjoy our time together. We give all opinions a fair opportunity to be heard.
 
